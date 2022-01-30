@@ -1,5 +1,5 @@
 # Customize-LLVM-Compiler-Feature
-Calculates the call site cost and decides whether to inline it or not.
+Calculates the call site cost and decides whether to inline a method call or not.
 This is my college project.
 
 About LLVM:
